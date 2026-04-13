@@ -10,12 +10,17 @@ Prerrequisitos
 
 Compilacion y ejecucion
 - Paso 1: Ensamblar (desde CMD de windows)
+
   nasm -f obj programa.asm -o programa.obj
 - Paso 2: Enlazar (desde CMD de Windows)
+
   alink programa.obj -oEXE -o programa.exe -entry main
 - Paso 3 - Ejecutar (desde DOSBox)
+
   MOUNT C C:\(ruta)
+
   C:
+
   programa.exe
 
 Salida esperada
