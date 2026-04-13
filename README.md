@@ -20,6 +20,7 @@ Compilacion y ejecucion
 
 Salida esperada
 === Laboratorio NASM - Unidad 4 === 
+
 ----------------------------------------
 Variable A (word): Z
 
