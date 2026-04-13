@@ -22,6 +22,8 @@ Salida esperada
 === Laboratorio NASM - Unidad 4 === 
 ----------------------------------------
 Variable A (word): Z
+
 : D N X b
+
 Programa finalizado correctamente.
 
