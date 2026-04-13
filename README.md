@@ -19,6 +19,7 @@ Compilacion y ejecucion
   programa.exe
 
 Salida esperada
+
 === Laboratorio NASM - Unidad 4 === 
 
 ----------------------------------------
