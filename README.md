@@ -33,4 +33,3 @@ Variable A (word): Z
 : D N X b
 
 Programa finalizado correctamente.
-
