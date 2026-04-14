@@ -1,4 +1,4 @@
-; programa.asm — Laboratorio Post1 Unidad 4
+; programa.asm — Laboratorio Post1 Unidad 4 
 ; Proposito: demostrar directivas de seccion, datos y constantes en NASM
 
 ; == Constantes (EQU, no reservan memoria) ==
